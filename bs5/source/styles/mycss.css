@@ -1,0 +1,19 @@
+body {
+    background-color: #fff4db;
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(131, 131, 131);
+}
+
+.navbar-toggler {
+    background-color: rgb(131, 131, 131);
+}
+
+.card-img-top {
+    height: 200px;
+}
